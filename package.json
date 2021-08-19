@@ -7,8 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1", 
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gibsona475/note-taker.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gibsona475/note-taker.git/issues"
+  },
+  "homepage": "https://github.com/gibsona475/note-taker.git#readme",
   "dependencies": {
     "express": "^4.17.1",
     "uuid": "^8.3.2"
